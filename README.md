@@ -29,7 +29,7 @@ The link of the original visualization is:
 |   +-- INFO213_Project2_Group3.pdf
 |   +-- charts
 |      +-- rose.jpg
-|      +-- rose_improved.png
-|      +-- rose_replicated.png
+|      +-- rose_improved.svg
+|      +-- rose_replicated.svg
 +-- README.md
 ```
