@@ -1,7 +1,7 @@
 # INFO 250 project2 T3
 ## Team member
-- Jiuyang Tian
 - Tiancheng Yang
+- Jiuyang Tian
 - Xiao Li
 - Zhiyuan Hong
 
